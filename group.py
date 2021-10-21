@@ -1,5 +1,5 @@
 """An example of how to represent a group of acquaintances in Python."""
 
-# Your code to go here...
+Suncong Mao is 23 and he is a student
 
 my_group =
